@@ -1,4 +1,4 @@
-In my masters, I have honed the following skills and this repository are some of the projects I did. They include the below processes:
+The projects above include the following processes.
 •	Data Collection: I have extensive experience gathering data from diverse sources, including databases and APIs, ensuring that the data is accurate, complete, and structured for seamless analysis.
 •	Data Cleaning and Preprocessing: I excel at cleaning and preprocessing data to remove inconsistencies, duplicates, and errors using Python. This process ensures that datasets are primed for accurate and insightful analysis.
 •	Exploratory Data Analysis: I utilize statistical techniques and data visualization tools to perform exploratory data analysis (EDA), allowing me to uncover patterns, trends, and relationships within data. I am proficient in both univariate and bivariate analysis, which provides a comprehensive understanding of the data at hand.
